@@ -12,7 +12,7 @@ const [Ip , setip] = useState("")
     const option = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '033b6742b7mshe3030434a7892e8p1ef822jsnbd2fe53b8f48',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
       }
       
